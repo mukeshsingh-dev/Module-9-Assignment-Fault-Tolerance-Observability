@@ -79,7 +79,9 @@ Run `./run_demo.sh` and capture the terminal output. The screenshot or pasted ou
 3. A successful recovery response after the delay is set back to zero.
 4. Checkout and Payment metrics showing requests, successes, failures, timeout count, and latency.
 
-Paste the screenshot or terminal output into the assignment chat so it can be added to this README under an `evidence/` folder.
+The local run evidence is attached below:
+
+![Local observability demo showing success, timeout, metrics, shared trace IDs, and recovery](evidence/local-observability-demo.png)
 
 ## Reflection
 
